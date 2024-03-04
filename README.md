@@ -1,0 +1,1 @@
+# mynetdiary-clone-web-assignment
